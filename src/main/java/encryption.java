@@ -1,8 +1,4 @@
 public class encryption {
-    private String message;
-    private int key;
-    private String output;
-
     public static final String ALPHABET = "abcdefghijklmnopqrstuvwxyz";
     public static String runEncryption(String plainText, int shiftKey)
     {
