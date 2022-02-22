@@ -1,17 +1,17 @@
 # Caesar_Cypher
 
-# Author
-Ronald KOlum
+## Author
+Ronald Kolum
 
-# Description
+## Description
 This project is meant to encrypt and decrypt strings using the caesar cypher method.
 
-# Project Setup
+## Project Setup
 This project is purely made in java. You need a java SDK to run java.
 
-# Live Link
+## Live Link
 
-# LICENSE
+## LICENSE
 MIT License
 
 Copyright (c) 2019 kolumr
